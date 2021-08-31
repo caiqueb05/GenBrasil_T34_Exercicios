@@ -1,0 +1,16 @@
+ListaExercícios31082021/Exercício1.java
+ ListaExercícios31082021.Exercício1
+ListaExercícios31082021/Exercício3.java
+ ListaExercícios31082021.Exercício3
+ListaExercícios31082021/Exercício7.java
+ ListaExercícios31082021.Exercício7
+ListaExercícios31082021/Exercício6.java
+ ListaExercícios31082021.Exercício6
+ListaExercícios31082021/Exercício2.java
+ ListaExercícios31082021.Exercício2
+ListaExercícios31082021/Exercício5.java
+ ListaExercícios31082021.Exercício5
+ListaExercícios31082021/Exercício8.java
+ ListaExercícios31082021.Exercício8
+ListaExercícios31082021/Exercício4.java
+ ListaExercícios31082021.Exercício4
