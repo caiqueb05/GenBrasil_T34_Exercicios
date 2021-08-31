@@ -22,8 +22,8 @@ public class Exercício1 {
         System.out.println("Entre com a sua idade expressa em dias: ");
         dias = leia.nextInt();
 
-        diasTotais = (anos*365) + (meses*30) + dias;
-        System.out.println("Você tem aproximadamente "+ diasTotais + " dias");
+        diasTotais = (anos * 365) + (meses * 30) + dias;
+        System.out.println("Você tem aproximadamente " + diasTotais + " dias");
 
     }
 

@@ -25,10 +25,10 @@ public class Exercício7 {
         System.out.println("Entre com o valor de f: ");
         f = leia.nextInt();
 
-        x = ((c*E) - (b*f)) / ((a*E) - (b*d));
-        y = ((a*f) - (c*d)) / ((a*E) - (b*d));
+        x = ((c * E) - (b * f)) / ((a * E) - (b * d));
+        y = ((a * f) - (c * d)) / ((a * E) - (b * d));
 
-        System.out.println("\nO resultado de x é: " + x + "O resultado de y é: " + y );
+        System.out.println("\nO resultado de x é: " + x + "O resultado de y é: " + y);
 
     }
 

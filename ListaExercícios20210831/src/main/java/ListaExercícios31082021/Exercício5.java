@@ -25,7 +25,7 @@ public class Exercício5 {
         System.out.println("Entre com o valor da nota 3: ");
         nota3 = leia.nextInt();
 
-        mediaPonderada = ((nota1*peso1) + (nota2*peso2) + (nota3*peso3)) / (peso1+peso2+peso3);
+        mediaPonderada = ((nota1 * peso1) + (nota2 * peso2) + (nota3 * peso3)) / (peso1 + peso2 + peso3);
 
         System.out.println("\nO resultado é: " + mediaPonderada);
 

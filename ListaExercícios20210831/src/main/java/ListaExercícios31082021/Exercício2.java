@@ -15,7 +15,7 @@ public class Exercício2 {
         System.out.println("Entre com a sua idade expressa em dias: ");
         idadeDias = leia.nextInt();
 
-        anos = idadeDias/365;
+        anos = idadeDias / 365;
         meses = (idadeDias % 365) / 30;
         dias = (idadeDias % 365) % 30;
 

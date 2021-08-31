@@ -25,7 +25,7 @@ public class Exercício6 {
         p1 = (x2 - x1) * (x2 - x1);
         p2 = (y2 - y1) * (y2 - y1);
 
-        resultado = Math.sqrt(p1+p2);//(p1 + p2) / (p1 + p2);
+        resultado = Math.sqrt(p1 + p2);//(p1 + p2) / (p1 + p2);
         System.out.println("\nO resultado da distancia é: " + resultado);
 
     }

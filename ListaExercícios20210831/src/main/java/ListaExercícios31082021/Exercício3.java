@@ -16,11 +16,11 @@ public class Exercício3 {
         System.out.println("Entre com a duração do evento expresso em segundos: ");
         segundos = leia.nextInt();
 
-        minutos = segundos/60;
-        horas = minutos/60;
+        minutos = segundos / 60;
+        horas = minutos / 60;
 
-        System.out.println("Seu evento vai durar " + (segundos/3600) + " Horas, " +
-                ((segundos%3600)/60) + " Minutos, e " + ((segundos%3600)%60) +
+        System.out.println("Seu evento vai durar " + (segundos / 3600) + " Horas, " +
+                ((segundos % 3600) / 60) + " Minutos, e " + ((segundos % 3600) % 60) +
                 " Segundos");
 
     }
