@@ -1,0 +1,12 @@
+br/com/generation/lacoDoWhile/Exercicio5DoWhile.java
+ br.com.generation.lacoDoWhile.Exercicio5DoWhile
+br/com/generation/lacoWhile/Exercicio3While.java
+ br.com.generation.lacoWhile.Exercicio3While
+br/com/generation/lacofor/Exercicio2For.java
+ br.com.generation.lacofor.Exercicio2For
+br/com/generation/lacofor/Exercício1For.java
+ br.com.generation.lacofor.Exercício1For
+br/com/generation/lacoDoWhile/Exercício6DoWhile.java
+ br.com.generation.lacoDoWhile.Exercício6DoWhile
+br/com/generation/lacoWhile/Exercicio4While.java
+ br.com.generation.lacoWhile.Exercicio4While

@@ -1,0 +1,12 @@
+br/com/generation/lacosderepeticao/ExemploWhile.java
+ br.com.generation.lacosderepeticao.ExemploWhile
+br/com/generation/lacosderepeticao/ExemploWhile02.java
+ br.com.generation.lacosderepeticao.ExemploWhile02
+br/com/generation/lacosderepeticao/ExemploWhile03.java
+ br.com.generation.lacosderepeticao.ExemploWhile03
+dowhile/DoWhile.java
+ dowhile.DoWhile
+br/com/generation/lacofor/ExemploFor01.java
+ br.com.generation.lacofor.ExemploFor01
+br/com/generation/lacofor/ExemploFor02.java
+ br.com.generation.lacofor.ExemploFor02
