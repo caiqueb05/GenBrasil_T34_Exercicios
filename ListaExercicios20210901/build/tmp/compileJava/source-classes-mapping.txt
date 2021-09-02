@@ -1,0 +1,10 @@
+br/com/generation/exercicios/Exercício2.java
+ br.com.generation.exercicios.Exercício2
+br/com/generation/exercicios/Exercícios3.java
+ br.com.generation.exercicios.Exercícios3
+br/com/generation/exercicios/Exercício4.java
+ br.com.generation.exercicios.Exercício4
+br/com/generation/exercicios/Exercicio1.java
+ br.com.generation.exercicios.Exercicio1
+vetor1/ArrayList.java
+ vetor1.ArrayList
