@@ -6,3 +6,5 @@ br/com/generation/vetorematrizes/Exercicio04Matriz.java
  br.com.generation.vetorematrizes.Exercicio04Matriz
 br/com/generation/vetorematrizes/Exercicio02Vetor.java
  br.com.generation.vetorematrizes.Exercicio02Vetor
+br/com/generation/vetorematrizes/TesteAmanda.java
+ br.com.generation.vetorematrizes.TesteAmanda
