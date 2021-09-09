@@ -1,0 +1,10 @@
+br/com/generation/Exercicio01/Cachorro.java
+ br.com.generation.Exercicio01.Cachorro
+br/com/generation/Exercicio01/Cavalo.java
+ br.com.generation.Exercicio01.Cavalo
+br/com/generation/Exercicio01/Animal.java
+ br.com.generation.Exercicio01.Animal
+br/com/generation/Exercicio01/Preguiça.java
+ br.com.generation.Exercicio01.Preguiça
+br/com/generation/Exercicio01/TestaTodosAnimais.java
+ br.com.generation.Exercicio01.TestaTodosAnimais
