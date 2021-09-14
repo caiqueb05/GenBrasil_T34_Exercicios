@@ -1,0 +1,4 @@
+br/com/generation/ExercicioCollection/Estoque.java
+ br.com.generation.ExercicioCollection.Estoque
+br/com/generation/ExercicioCollection/TestaEstoque.java
+ br.com.generation.ExercicioCollection.TestaEstoque

@@ -12,11 +12,11 @@ br/com/generation/Exercicio02/Cachorro.java
  br.com.generation.Exercicio02.Cachorro
 br/com/generation/Exercicio02/Animal.java
  br.com.generation.Exercicio02.Animal
-br/com/generation/Exercicio02/TestaAnimal.java
- br.com.generation.Exercicio02.TestaAnimal
-br/com/generation/Exercicio02/Cavalo.java
- br.com.generation.Exercicio02.Cavalo
 br/com/generation/Exercicio02/Preguiça.java
  br.com.generation.Exercicio02.Preguiça
+br/com/generation/Exercicio02/Cavalo.java
+ br.com.generation.Exercicio02.Cavalo
+br/com/generation/Exercicio02/TestaAnimal.java
+ br.com.generation.Exercicio02.TestaAnimal
 br/com/generation/Exercicio02/ImprimirAnimal.java
  br.com.generation.Exercicio02.ImprimirAnimal
