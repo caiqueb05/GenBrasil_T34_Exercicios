@@ -36,6 +36,7 @@ public class TestaEstoque {
             estoque.add(new Estoque(tipo, categoria, marca, quantidade, preco, indice));
 
         }
+
         System.out.println();
         System.out.println("A lista completa dos produtos é: ");
 
@@ -78,7 +79,7 @@ public class TestaEstoque {
             System.out.println("\nA nova lista alterada ficou assim: \n" + estoque);
 
         } else {
-            System.out.println("Remoção cancelada, deseja remover outra posição?");
+            System.out.println("Alteração cancelada, deseja alterar outra posição?");
         }
 
         //Remover dados do ArrayList
